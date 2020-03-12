@@ -1,4 +1,4 @@
-package cn.wuxiangknwo.java7.OverrideTest;
+package cn.wuxiangknwo.java7.overrideTest;
 
 import org.junit.Test;
 
