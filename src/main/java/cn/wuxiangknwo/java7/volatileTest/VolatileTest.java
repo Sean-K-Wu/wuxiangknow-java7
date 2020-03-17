@@ -2,6 +2,8 @@ package cn.wuxiangknwo.java7.volatileTest;
 
 import org.junit.Test;
 
+
+
 /**
  * @Desciption
  * @Author WuXiang
